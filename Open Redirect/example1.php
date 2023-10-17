@@ -1,1 +1,1 @@
-<?php header(“Location: “.$_GET[“go”]); die();  ?>
+<?php header("Location: ".$_GET["go"]); die();  ?>
